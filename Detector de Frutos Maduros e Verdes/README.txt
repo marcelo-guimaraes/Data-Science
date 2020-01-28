@@ -1,0 +1,2 @@
+O código foi utilizado com o intuito de identificar os frutos maduros e os frutos ainda verdes. Fez parte de um projeto que era uma esteira separadora. A webcam foi 
+aclopada em cima da esteira e conforme o estados dos frutos, eles eram destinados à lugares diferentes.
