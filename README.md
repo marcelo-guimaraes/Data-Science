@@ -1,7 +1,7 @@
 # Projetos: 
 
 Lista de Projetos:
-* Capstone do curso "Certificado Profissional Ciência de dados da IBM": http://bit.ly/2UqqjTR
+ [Capstone do curso "Certificado Profissional Ciência de dados da IBM":] (http://bit.ly/2UqqjTR)
 * Detecção de Fraudes em Cartões de Crédito: http://bit.ly/2Ujct5L
 * Segmentação e agrupamento das vizinhanças de Toronto usando dados geoespacieais: http://bit.ly/2GTgQfM
 * Detector de Frutos Maduros e Verdes com OpenCv: http://bit.ly/2GOzPYY
