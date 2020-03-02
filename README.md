@@ -9,3 +9,4 @@ Lista de Projetos:
 * [Data Visualization: Area plots, Histograms, Bar Plots and Charts](http://bit.ly/3bdzZav)
 * [Data Visualization: Pie Charts, Boxplots, Scatter Plots and Bubble Plots](http://bit.ly/2UlvsN5)
 * [Detector de Frutos Maduros e Verdes com OpenCv](http://bit.ly/2GOzPYY)
+* [Análise de Séries Temporais](http://bit.ly/3amKGpP)
