@@ -19,3 +19,5 @@ Lista de Projetos:
 
 ### Sobre mim:
 Nível técnico em Automação Industrial pelo IFES *campus* Linhares e nível profissionalizante pela IBM. Vice campeão estadual na Olimíada Brasileira de Robótica e entusiasta de Data Science desde então. 
+
+* [Linkedin](https://www.linkedin.com/in/marcelo-felippe-guimar%C3%A3es-de-freitas-571641175/)
