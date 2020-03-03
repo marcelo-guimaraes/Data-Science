@@ -17,5 +17,5 @@ Lista de Projetos:
 * [Análise de Séries Temporais](http://bit.ly/3amKGpP)
 * [Classificação usando Redes Neurais e o conjunto de dados Iris](http://bit.ly/2VGKxt8)
 
-###Sobre mim:
+### Sobre mim:
 Sou formado em Automação Industrial pelo IFES *campus* Linhares. Vice campeão estadual na Olimíada Brasileira de Robótica e nesse portfólio estão alguns projetos focados no Data Science e outros
