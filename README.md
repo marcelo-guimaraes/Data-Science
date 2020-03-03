@@ -18,4 +18,4 @@ Lista de Projetos:
 * [Classificação usando Redes Neurais e o conjunto de dados Iris](http://bit.ly/2VGKxt8)
 
 ### Sobre mim:
-Sou formado em Automação Industrial pelo IFES *campus* Linhares. Vice campeão estadual na Olimíada Brasileira de Robótica e nesse portfólio estão alguns projetos focados no Data Science e outros
+Nível técnico em Automação Industrial pelo IFES *campus* Linhares e nível profissionalizante pela IBM. Vice campeão estadual na Olimíada Brasileira de Robótica e entusiasta de Data Science desde então. 
