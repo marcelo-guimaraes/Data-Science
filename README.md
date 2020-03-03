@@ -11,4 +11,3 @@ Lista de Projetos:
 * [Detector de Frutos Maduros e Verdes com OpenCv](http://bit.ly/2GOzPYY)
 * [Análise de Séries Temporais](http://bit.ly/3amKGpP)
 * [Classificação usando Redes Neurais e o conjunto de dados Iris](http://bit.ly/2VGKxt8)
-teste
