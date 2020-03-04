@@ -5,7 +5,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 * [Linkedin](https://www.linkedin.com/in/marcelo-felippe-guimar%C3%A3es-de-freitas-571641175/)
 
 ## Projetos: 
-saddd
+hgf
 Lista de Projetos:
 * [Capstone do curso "Certificado Profissional Ciência de dados da IBM"](http://bit.ly/2UqqjTR)
 * [Detecção de Fraudes em Cartões de Crédito](http://bit.ly/2Ujct5L)
