@@ -3,7 +3,7 @@
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning. 
 
 * [Linkedin](https://www.linkedin.com/in/marcelo-felippe-guimar%C3%A3es-de-freitas-571641175/)
-dsddsadsa
+dsddsads
 ## Projetos: 
 
 Lista de Projetos:
