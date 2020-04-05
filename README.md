@@ -8,7 +8,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos: 
 
 Lista de Projetos:
-* [Capstone do curso "Certificado Profissional Ciência de dados da IBM"](https://github.com/marcelo-guimaraes/Data-Science/blob/master/TheBattleOfNeighborhoods.ipynb)
+* [Capstone do curso "Certificado Profissional Ciência de dados da IBM"](https://bit.ly/39IHDrh)
 * [Detecção de Fraudes em Cartões de Crédito](http://bit.ly/2Ujct5L)
 * [Segmentação e agrupamento das vizinhanças de Toronto usando dados geoespacieais](http://bit.ly/2GTgQfM)
 * [Predição do Preço de Casas em Iowa](http://bit.ly/2H9WwH5)
