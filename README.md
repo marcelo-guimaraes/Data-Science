@@ -10,6 +10,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 Lista de Projetos:
 * [Capstone do curso "Certificado Profissional Ciência de dados da IBM"](https://bit.ly/39IHDrh)
 * [Detecção de Fraudes em Cartões de Crédito](http://bit.ly/2Ujct5L)
+* [Modelo de Regressão para prever a nota de matemática de um participante no enem](https://bit.ly/2VEvL4s)
 * [Análise de imigrantes no Canadá](http://bit.ly/2Oqp4jH)
 * [Investigando o naufrágio do Titanic](http://bit.ly/2TjxH2i)
 * [Segmentação e agrupamento das vizinhanças de Toronto usando dados geoespacieais](http://bit.ly/2GTgQfM)
