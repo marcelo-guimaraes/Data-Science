@@ -14,7 +14,7 @@ Lista de Projetos:
 * [Investigando o naufrágio do Titanic](http://bit.ly/2TjxH2i)
 * [Segmentação e agrupamento das vizinhanças de Toronto usando dados geoespacieais](http://bit.ly/2GTgQfM)
 * [Predição do Preço de Casas em Iowa](http://bit.ly/2H9WwH5)
-* [Preprocessing some Raw Data](https://bit.ly/2Rul7vR)
+* [Preprocessing Raw Data](https://bit.ly/2Rul7vR)
 * [Data Visualization: Area plots, Histograms, Bar Plots and Charts](http://bit.ly/3bdzZav)
 * [Data Visualization: Pie Charts, Boxplots, Scatter Plots and Bubble Plots](http://bit.ly/2UlvsN5)
 * [Detector de Frutos Maduros e Verdes com OpenCv](http://bit.ly/2GOzPYY)
