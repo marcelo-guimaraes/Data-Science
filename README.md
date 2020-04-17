@@ -13,6 +13,7 @@ Lista de Projetos:
 * [Modelo de Regressão para prever a nota de matemática de um participante no Enem](https://bit.ly/2VEvL4s)
 * [Análise de imigrantes no Canadá](http://bit.ly/2Oqp4jH)
 * [Investigando o naufrágio do Titanic](http://bit.ly/2TjxH2i)
+* [Temperature Analysis - Data Preprocessing and Visualization](https://bit.ly/2wPK3XM)
 * [Segmentação e agrupamento das vizinhanças de Toronto usando dados geoespacieais](http://bit.ly/2GTgQfM)
 * [Predição do Preço de Casas em Iowa](http://bit.ly/2H9WwH5)
 * [Preprocessing Raw Data](https://bit.ly/2Rul7vR)
