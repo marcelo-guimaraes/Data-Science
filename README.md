@@ -1,6 +1,6 @@
 # Portfólio de Data Science:
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning. 
+Aqui você encontra alguns *notebooks* dos meus projetos na área de Data Science. 
 
 * [Linkedin](https://www.linkedin.com/in/marcelo-felippe-guimar%C3%A3es-de-freitas-571641175/)
 * [Portfólio](https://marcelofreitas.glitch.me/)
@@ -28,6 +28,6 @@ Lista de Projetos:
 * [Classificação usando Redes Neurais e o conjunto de dados Iris](http://bit.ly/2VGKxt8)
 
 ### Sobre mim:
-Nível técnico em Automação Industrial pelo IFES *campus* Linhares e nível profissionalizante pela IBM. Vice campeão estadual na Olimíada Brasileira de Robótica e entusiasta de Data Science desde então. 
+Nível técnico em Automação Industrial pelo IFES *campus* Linhares, curso de nível profissionalizante em Ciência de Dados pela [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/JVS25XJ3M87W) e curso de especialização também em Ciência de Dados pela [Universadade de Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/4SHDLLQ9TACT). Vice campeão estadual na Olimíada Brasileira de Robótica, estudante autoditada, libertário e cristão. :)
 
 
