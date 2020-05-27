@@ -3,6 +3,7 @@
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning. 
 
 * [Linkedin](https://www.linkedin.com/in/marcelo-felippe-guimar%C3%A3es-de-freitas-571641175/)
+* [Portfólio](https://marcelofreitas.glitch.me/)
 * [Medium](https://medium.com/@marcelofelippe.mfg)
 
 ## Projetos: 
@@ -18,6 +19,7 @@ Lista de Projetos:
 * [Segmentação e agrupamento das vizinhanças de Toronto usando dados geoespacieais](http://bit.ly/2GTgQfM)
 * [Predição do Preço de Casas em Iowa](http://bit.ly/2H9WwH5)
 * [Preprocessing Raw Data](https://bit.ly/2Rul7vR)
+* [Testes de Hipóteses usando dados da Olimpíada de 2016](https://bit.ly/2TJInHv)
 * [Análise de Séries Temporais](http://bit.ly/3amKGpP)
 * [Data Visualization: Area plots, Histograms, Bar Plots and Charts](http://bit.ly/3bdzZav)
 * [Data Visualization: Pie Charts, Boxplots, Scatter Plots and Bubble Plots](http://bit.ly/2UlvsN5)
