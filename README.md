@@ -9,6 +9,7 @@ Aqui você encontra alguns *notebooks* dos meus projetos na área de Data Scienc
 ## Projetos: 
 
 Lista de Projetos:
+* [Segmentação de Clientes](https://bit.ly/3ddqqrH)
 * [Capstone do curso "Certificado Profissional Ciência de dados da IBM"](https://bit.ly/39IHDrh)
 * [Detecção de Fraudes em Cartões de Crédito](http://bit.ly/2Ujct5L)
 * [Modelo de Regressão para prever a nota de matemática de um participante no Enem](https://bit.ly/2VEvL4s)
