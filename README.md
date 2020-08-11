@@ -12,6 +12,7 @@ Lista de Projetos:
 * [Segmentação de Clientes](https://bit.ly/3ddqqrH)
 * [Capstone do curso "Certificado Profissional Ciência de dados da IBM"](https://bit.ly/39IHDrh)
 * [Detecção de Fraudes em Cartões de Crédito](http://bit.ly/2Ujct5L)
+* [Detroit Blight Violation](https://github.com/marcelo-guimaraes/Data-Science/blob/master/Detroit_Blight_Violation.ipynb)
 * [Modelo de Regressão para prever a nota de matemática de um participante no Enem](https://bit.ly/2VEvL4s)
 * [Análise de imigrantes no Canadá](http://bit.ly/2Oqp4jH)
 * [Investigando o naufrágio do Titanic](http://bit.ly/2TjxH2i)
