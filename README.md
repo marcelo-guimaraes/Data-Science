@@ -31,6 +31,6 @@ Lista de Projetos:
 * [Classificação usando Redes Neurais e o conjunto de dados Iris](http://bit.ly/2VGKxt8)
 
 ### Sobre mim:
-Nível técnico em Automação Industrial pelo IFES *campus* Linhares, curso de nível profissionalizante em Ciência de Dados pela [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/JVS25XJ3M87W) e curso de especialização também em Ciência de Dados pela [Universadade de Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/4SHDLLQ9TACT). Vice campeão estadual na Olimíada Brasileira de Robótica, estudante autoditada, libertário e cristão. :)
+Nível técnico em Automação Industrial pelo IFES *campus* Linhares, curso de nível profissionalizante em Ciência de Dados pela [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/JVS25XJ3M87W) e curso de especialização também em Ciência de Dados pela [Universadade de Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/4SHDLLQ9TACT). Vice campeão estadual na Olimpíada Brasileira de Robótica, estudante autoditada, libertário e cristão. :)
 
 
